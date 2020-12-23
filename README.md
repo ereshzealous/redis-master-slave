@@ -3,7 +3,10 @@
 This repo has code base and sample spring boot application to test redis master slave configuration.
 
 ### Start Redis instance in docker locally
-``` docker-compose up master slave-a slave-b redis-commander
+
+```
+docker-compose up master slave-a slave-b redis-commander
+
 ```
 
 For more details please visit the medium blog
