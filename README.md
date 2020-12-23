@@ -6,7 +6,6 @@ This repo has code base and sample spring boot application to test redis master 
 
 ```
 docker-compose up master slave-a slave-b redis-commander
-
 ```
 
 For more details please visit the medium blog
